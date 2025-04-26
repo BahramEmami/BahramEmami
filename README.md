@@ -8,4 +8,4 @@
 - 📫 How to reach me:
   - **Email**: BahramEmami1384@gmail.com
   - **Telegram**: [@im_B_E](https://t.me/im_B_E)
-  - **LinkedIn**: [Bahram Emami](https://www.linkedin.com/in/bahram-emami)
+  - **LinkedIn**: [Bahram Emami](https://www.linkedin.com/in/bahram-emami-60ab56316)
