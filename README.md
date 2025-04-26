@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @BahramEmami
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C & JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Bahram Emami
 
-<!---
-BahramEmami/BahramEmami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 I’m based in **Tehran**
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning **C**, **Java**, and a little **Python**
+- 🎯 I’m currently working on **university projects**
+- 🤝 I’m **not actively looking for collaboration** at the moment
+- 📫 How to reach me:
+  - **Email**: BahramEmami1384@gmail.com
+  - **Telegram**: [@im_B_E](https://t.me/im_B_E)
+  - **LinkedIn**: [Bahram Emami](https://www.linkedin.com/in/bahram-emami)
