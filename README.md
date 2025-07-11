@@ -6,6 +6,32 @@
 
 ---
 
+## 🐣 About Me:
+
+- 🌱 I’m currently learning **HTML and CSS** and **JavaScript** and **C++**  
+- 🤝 I’m open to collaborating on cool technical or creative projects  
+- 🎓 I’m currently a university student focused on computer engineering  
+- 📬 Reach me via **email**, **Telegram**, or **LinkedIn**  
+- 🚀 Always curious, always exploring new tech and tools
+
+---
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bahram-emami-60ab56316" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:BahramEmami1384@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/im_B_E" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack:
 
 <p align="center">
@@ -46,14 +72,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BahramEmami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [BahramEmami1384@gmail.com](mailto:BahramEmami1384@gmail.com)
-- 💬 Telegram: [@im_B_E](https://t.me/im_B_E)
-- 💼 LinkedIn: [Bahram Emami](https://www.linkedin.com/in/bahram-emami-60ab56316)
 
 ---
 
