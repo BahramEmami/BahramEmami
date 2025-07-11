@@ -2,7 +2,7 @@
 
 - 🌍 I’m based in **Tehran**
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning **C**, **Java**, and a little **Python**
+- 🌱 I’m currently learning **C++**, **Java**, **HTML&CSS**, **JavaScript**and a little **Python**
 - 🎯 I’m currently working on **university projects**
 - 🤝 I’m **not actively looking for collaboration** at the moment
 - 📫 How to reach me:
